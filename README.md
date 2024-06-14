@@ -2,7 +2,7 @@
 
 Taskify is a feature-rich to-do list application built using HTML, CSS, JavaScript, and Firebase Firestore. It provides a seamless and intuitive user experience for managing tasks, with real-time synchronization across devices.
 
-![Taskify Preview](path/to/preview/image.png)
+![Taskify Preview](taskifypreview.png)
 
 ## Features
 
